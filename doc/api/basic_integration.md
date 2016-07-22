@@ -24,7 +24,7 @@ You purchase funnel actions should be set like so:
 ```
 **Note**: the category indicates that the event is a “conversion funnel” event.
 
-Most interactions involve one product, and the user that performed the action. The following is an example of a preview interaction –
+Most interactions involve one product, and the user that performed the action. The following is an example of a preview interaction:
 
 ```javascript
 {
@@ -54,7 +54,7 @@ Most interactions involve one product, and the user that performed the action. T
 }
 ```
 
-**Note**: nToklo adds a few extra properties that the UV does not currently support, e.g. image_url, and vendor.
+**Note**: nToklo adds a few extra properties that the UV does not currently support, e.g. `image_url` and `vendor`.
 
 A purchase action looks like this:
 
