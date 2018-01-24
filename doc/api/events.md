@@ -1,5 +1,5 @@
 ![www.ntoklo.com](https://cloud.githubusercontent.com/assets/1387097/17018478/d6fa453c-4f2f-11e6-966f-40d728dd5030.png)
-#Events
+# Events
 
 The Events API allows customers to send nToklo user activity.
 
@@ -11,7 +11,7 @@ The Events API allows customers to send nToklo user activity.
 |Request body | [UV](http://docs.qubitproducts.com/uv/intro/) object | 
 
 
-##Example HTTP request
+## Example HTTP request
 Note: some headers are omitted for brevity
 
 ```
