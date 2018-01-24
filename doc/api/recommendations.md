@@ -4,7 +4,7 @@
 
 The Recommendations API allows customers to retrieve recommendations based on user history and product attributes. It may also provide popular products for non-personalised recommendations.
 
-##URI template
+## URI template
 
 | URI         | /event      |
 |-------------|-------------|
