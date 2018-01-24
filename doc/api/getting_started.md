@@ -35,7 +35,7 @@ The nToklo Javascript will POST the universal_variable object to the nToklo serv
 
 Sometimes you need to send UV object asynchronous, for example some events do not occur on page load. In such cases, you can invoke the sendEvent function. Read more about [Asynchronous Events](async_events.md) if this applies to your website.
 
-##Step 3. Fetch recommendations
+## Step 3. Fetch recommendations
 Once nToklo has recorded sufficient user activity it can provide good product recommendations. The Recommendations API allows you to fetch recommendations.
 
 Here's how to fetch recommendations in Javascript for the logged in user `nicole12` who is currently previewing `French Sole` shoes:
