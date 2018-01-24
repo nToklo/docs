@@ -1,9 +1,10 @@
 ![www.ntoklo.com](https://cloud.githubusercontent.com/assets/1387097/17018478/d6fa453c-4f2f-11e6-966f-40d728dd5030.png)
-#Basic Integration
+
+# Basic Integration
 
 You should be familiar with the [Getting Started](doc/api/getting_started.md) first. In general there are three steps to basic integration with nToklo.
 
-##1. Implement the Universal Variable (UV)
+## 1. Implement the Universal Variable (UV)
 The UV is an open standard for describing customer experience data, e.g. what interactions occur on which products, by who, on what page.
 
 The UV is great! Read more about the UV spec [here](http://docs.qubitproducts.com/uv/specification/).
