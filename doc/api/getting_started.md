@@ -21,7 +21,7 @@ In order to use nToklo APIs you need your API key, which you can find on your co
 >**Secret** Yzc3YTdhYjEtM2ViNS00ZmFiLWFkZDUtMGFhNjkzMDIzZmUw
 
 ## Step 2. Add the nToklo Javascript tag to your website
-The [Universal Variable (UV)]((http://docs.qubitproducts.com/uv/intro/)) makes integration with nToklo easy. If you are already using the UV, and your product pages already contain universal_variable objects, then you can start sending user activity to the nToklo servers – it's easy, just add the [nToklo Javascript tag](/doc/api/js.md) to each page and specify your nToklo application key.
+The [Universal Variable (UV)](http://docs.qubitproducts.com/uv/intro/) makes integration with nToklo easy. If you are already using the UV, and your product pages already contain universal_variable objects, then you can start sending user activity to the nToklo servers – it's easy, just add the [nToklo Javascript tag](/doc/api/js.md) to each page and specify your nToklo application key.
 
 ```javascript
 <script type="text/javascript">
