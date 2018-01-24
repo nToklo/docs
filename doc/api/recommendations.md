@@ -21,7 +21,7 @@ The Recommendations API allows customers to retrieve recommendations based on us
 | `scope`	    | (*Optional*) A product attribute for which to scope recommendations. For example `scope=category` will consider the product category when returning recommendations. Supports: `category, manufacturer, vendor, action`.	 | `category, manufacturer, vendor, action`  |
 | `value`	    | (*Optional*) The value for the recommendation scope. For example `scope=category&value=shoes` will consider the shoe category when returning recommendations. The value parameter can be any string value. |	`shoes, category12, nike, shoes.com` |
 
-##Example HTTP request
+## Example HTTP request
 Note: some headers are omitted for brevity
 
 ```
