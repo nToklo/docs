@@ -1,16 +1,16 @@
 ![www.ntoklo.com](https://cloud.githubusercontent.com/assets/1387097/17018478/d6fa453c-4f2f-11e6-966f-40d728dd5030.png)
-#Charts
+# Charts
 
 The Charts API allows customers to retrieve a list of popular products. Charts represents a rolling time window (daily or weekly) and can be scoped by product attributes and filtered by action.
 
-##REST template
+## REST template
 
 | URI	|  /chart |
 |-------|---------|
 |HTTP method  |	GET |
 | Response body	 | Chart object that contains an array of ChartItem objects.|
 
-##Request parameters
+## Request parameters
 
 | Name	 | Description	| Examples |
 |-------|---------|---------|
@@ -21,7 +21,7 @@ The Charts API allows customers to retrieve a list of popular products. Charts r
 | `tw` |	(*Optional*) The time window for which the charts are requested. If not specified then the chart returns daily chart, equivalent to tw=DAILY. Supports: `DAILY, WEEKLY`.	| `DAILY, WEEKLY` |
 | `maxItems` |	(*Optional*) The max number of items in the charts. Default is `10`. Valid range is `1-100`.	| `10` |
 
-##Example HTTP request
+## Example HTTP request
 Note: some headers are omitted for brevity
 ```
 GET /chart?scope=category&value=sci-fi&maxItems=3
