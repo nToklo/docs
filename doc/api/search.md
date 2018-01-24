@@ -9,7 +9,7 @@ The Search API allows clients to search products by keyword.
 | Request method |	GET |
 | Response body	| List of Product objects. |
 
-##Request parameters
+## Request parameters
 
 | Name	 | Description	 | Examples |
 |-------|-----------|-------|
