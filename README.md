@@ -25,8 +25,8 @@ If no plugin is available for your platform, you'll have to write some code to i
 
 To render the application process even more simple, we created a library (or "connector"), available in the the most commonly used languages, that abstracts the communication process with the nToklo API:
 
-- [PHP connector](doc/api/php_connector.md)
-- [Python connector](doc/api/python_connector.md)
+- [PHP connector](https://github.com/nToklo/ntokloapi-php)
+- [Python connector](https://github.com/nToklo/ntokloapi-python)
 
 
 ## Support
