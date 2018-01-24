@@ -4,7 +4,7 @@
 
 The Blacklist API allows customers to exclude items from being recommended and appearing in new charts.
 
-##REST template
+## REST template
 
 | URI	| /product/blacklist |
 |--------|--------------------|
