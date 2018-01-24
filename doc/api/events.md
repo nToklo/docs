@@ -3,7 +3,7 @@
 
 The Events API allows customers to send nToklo user activity.
 
-##REST template
+## REST template
 
 | URI         | /event      |
 |-------------|-------------|
